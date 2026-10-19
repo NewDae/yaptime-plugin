@@ -10,5 +10,3 @@ claude plugin install yaptime@yaptime
 ```
 
 Then run `/yaptime-setup` in Claude Code. The [agent guide](https://yaptime.newdae.workers.dev/agent.md) covers the rest, including Codex.
-
-This repo is generated; changes are made upstream and exported here.
