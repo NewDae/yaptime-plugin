@@ -1,0 +1,6 @@
+{
+  "yaptime": {
+    "command": "npx",
+    "args": ["-y", "yaptime@0.2.0", "serve", "--host", "claude"]
+  }
+}

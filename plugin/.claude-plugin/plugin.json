@@ -1,0 +1,7 @@
+{
+  "name": "yaptime",
+  "version": "0.2.0",
+  "description": "yaptime through a local guard: sign in once, sharing rules from ~/.yaptime/guidelines.md, and secret/personal-data/local-path checks before anything leaves your machine.",
+  "author": { "name": "yaptime" },
+  "keywords": ["yaptime", "mcp", "guard"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "yaptime",
+  "owner": {
+    "name": "yaptime"
+  },
+  "description": "yaptime client plugins.",
+  "plugins": [
+    {
+      "name": "yaptime",
+      "source": "./plugin",
+      "description": "Local guard for yaptime: OAuth sign-in, sharing rules and pre-send checks."
+    }
+  ]
+}
