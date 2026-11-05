@@ -1,7 +1,13 @@
 {
   "name": "yaptime",
-  "version": "0.4.1",
-  "description": "yaptime through a local guard: sign in once, sharing rules from ~/.yaptime/guidelines.md, and secret/personal-data/local-path checks before anything leaves your machine.",
-  "author": { "name": "yaptime" },
-  "keywords": ["yaptime", "mcp", "guard"]
+  "version": "0.4.2",
+  "description": "Retired: yaptime is now a desktop app. /yaptime-setup tells you where to download it.",
+  "author": {
+    "name": "yaptime"
+  },
+  "keywords": [
+    "yaptime",
+    "mcp",
+    "guard"
+  ]
 }
