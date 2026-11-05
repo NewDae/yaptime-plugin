@@ -8,7 +8,7 @@
     {
       "name": "yaptime",
       "source": "./plugin",
-      "description": "Local guard for yaptime: OAuth sign-in, sharing rules and pre-send checks."
+      "description": "Retired: yaptime is now a desktop app. /yaptime-setup tells you where to download it."
     }
   ]
 }
